@@ -1,0 +1,14 @@
+.first-div{
+    border:2px solid blue;
+    font-size:larger;
+    background-color: gray;
+}
+.second-div{
+    border:2px solid red;
+    background-color: rgb(197, 197, 45);
+}
+.third-div{
+    border:2px solid green;
+    font-family: sans-serif;
+    background-color: #fff000;
+}
